@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: research
+layout: default
 sitemap: false
 permalink: /Research/
 ---
@@ -16,7 +16,7 @@ permalink: /Research/
       Currently, I am working in the electron microscopy group under the supervision of Professor Paul Midgley. 
       We are investigating machine learning approaches to enhance the analysis of transmission electron diffraction images.
     </p>
-    <img src="/3DED.jpeg" alt="3DED" style="width: 40%;">
+    <img src="{{ site.baseurl }}/images/3DED.jpeg" alt="3DED" style="width: 40%;">
     <figcaption class="text-sm text-gray-500 mt-2 text-center">
       Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
     </figcaption>
@@ -37,7 +37,7 @@ permalink: /Research/
     nanotips. The primary objective of this project was to achieve the beam brightness and coherence required to achieve
     nm-resolution holographic imaging capabilities.
   </p>
-  <img src="/uhv.webp" alt="UHV System" style="width: 80%;">
+  <img src="{{ site.baseurl }}/images/uhv.webp" alt="UHV System" style="width: 80%;">
   <figcaption class="text-sm text-gray-500 mt-2 text-center">
     Side view diagram of our proposed UHV system.
   </figcaption>
@@ -49,7 +49,7 @@ permalink: /Research/
     where we discovered a novel spatiotemporal spreading effect when focusing THz light. This finding led to insights into enhancing
     THz pulse delivery and control, which are crucial for nonlinear spectroscopy applications.
   </p>
-  <img src="/Figure4.png" alt="THz Light Spread" style="width: 80%;">
+  <img src="{{ site.baseurl }}/images/Figure4.png" alt="THz Light Spread" style="width: 80%;">
   <figcaption class="text-sm text-gray-500 mt-2 text-center">
     Spatiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
