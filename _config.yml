@@ -30,10 +30,9 @@ links: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: research
-  - name: blogs
-  - title: "CV"
-    url: "/assets/Ben_Academic_CV.pdf"
+  - name: Research
+  - name: Blog
+ 
 include:
   - .htaccess
   - _pages
