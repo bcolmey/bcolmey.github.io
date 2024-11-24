@@ -2,7 +2,7 @@
 title: "Blog"
 layout: page
 sitemap: false
-permalink: /blogs/
+permalink: /Blog/
 ---
 
 
