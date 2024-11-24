@@ -24,7 +24,7 @@ I am a PhD candidate in materials physics at the University of Cambridge, specia
 Before coming to Cambridge, I spent the past seven years in Montreal, Canada, where I recently completed my MSc degree in condensed matter physics at McGill University. At other times I have lived in several cities, including Hong Kong, Jakarta, Paris, and Tel Aviv.
 <br><br>
 Outside of my academic pursuits, I enjoy traveling and have visited over 30 countries. My hobbies include cooking and woodworking, where I find joy in creating something from scratch and working with my hands. I also maintain an active lifestyle through triathlons and hiking, which provide a balance between physical challenge and time in nature. My intellectual pursuits include creative writing, literature, cinema, and history, which continually broaden my perspective and fuel my love for storytelling. I am always open to new experiences and enjoy learning new things.
-
+<br><br>
 If you have any questions or would like to collaborate on a project, please don’t hesitate to shoot me an email at: benjamincolmey@gmail.com
 <br><br>
 I’m genuinely enthusiastic about speaking engagements and am open to addressing audiences with various levels of background knowledge on my favorite topics. If this interests you, please do get in touch.

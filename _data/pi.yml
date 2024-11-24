@@ -1,15 +1,14 @@
-- name: Ben Field of Bile
+- name: Benjamin Colmey
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: PhD Student
+  email: benjamincolmey@gmail.com
+  github: https://github.com/bcolmey
+  scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u5HHmVD_uO8C
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Proper Oxford Cunt",
+      "(2024) Proper Oxford Cunt",
     ]
 
   educationshort:

@@ -1,5 +1,5 @@
 # Site settings
-title: Richard Feynman
+title: Benjamin Colmeuy
 email: richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
 url: "https://bcolmey.github.io"  # Replace with your GitHub Pages URL
@@ -31,7 +31,6 @@ nav_pages:
   - name: about
   - name: publications
   - name: research
-  - name: team
   - name: blogs
 
 include:
