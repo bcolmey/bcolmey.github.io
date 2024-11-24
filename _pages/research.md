@@ -15,7 +15,7 @@ permalink: /Research/
         src="{{ site.baseurl }}/images/panorama1.jpg" 
         style="display: block; width: 100%; height: auto; border: none; background: transparent; margin: 0; padding: 0;" 
         alt="Materials Science Department, Cambridge"
-      /> 
+      />
       <figcaption class="text-sm text-gray-500 mt-2 text-center">
         Materials Science Department, Cambridge
       </figcaption>
@@ -26,7 +26,7 @@ permalink: /Research/
         src="{{ site.baseurl }}/images/MS.jpg" 
         style="display: block; width: 100%; height: auto; border: none; background: transparent; margin: 0; padding: 0;" 
         alt="University of Cambridge Logo"
-      /> 
+      />
       <figcaption class="text-sm text-gray-500 mt-2 text-center">
         University of Cambridge
       </figcaption>
@@ -50,7 +50,6 @@ permalink: /Research/
   <!-- Previous Research Topics -->
   <h3>Previous Research Topics</h3>
 
-  <!-- Design of a Novel Ultrafast Electron Microscope -->
   <h4>Design of a Novel Ultrafast Electron Microscope</h4>
   <p>
     During my time working in McGill University’s
@@ -67,7 +66,6 @@ permalink: /Research/
     Side view diagram of our proposed UHV system.
   </figcaption>
 
-  <!-- Optimizing Plasma-Based THz Sources for Electron Emission -->
   <h4>Optimizing Plasma-Based THz Sources for Electron Emission</h4>
   <p>
     One key project investigated during my MSc was the generation and optimization of THz pulses using plasma-based sources, 
