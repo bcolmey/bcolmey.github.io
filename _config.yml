@@ -23,17 +23,17 @@ location: >
   27 Charles Babbage Rd,<br/>
   Cambridge CB3 0FS
 
-contact: >
+Links: >
   <a href="mailto:benjamincolmey@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact</a> <br/>
   <a href="https://github.com/bcolmey"><i class="fa fa-github fa-1x"></i> Github</a> <br/>
   <a href="https://www.linkedin.com/in/benjamin-colmey/"><i class="fa fa-linkedin-square fa-1x"></i> Linkedin</a>
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
   - name: research
   - name: blogs
-  - name: CV
+  - title: "CV"
+    url: "/assets/Ben_Academic_CV.pdf"
 
 include:
   - .htaccess
