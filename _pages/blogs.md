@@ -5,9 +5,7 @@ sitemap: false
 permalink: /blogs/
 ---
 
-<div>
-  <div class="text-2xl w-full font-bold mb-8">Blog Posts</div>
-</div>
+
 
 <ul>
   <li style="display: flex; align-items: center; margin-bottom: 20px;">
