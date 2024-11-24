@@ -13,6 +13,6 @@ permalink: /cv/
     <title>Redirecting...</title>
   </head>
   <body>
-    <p>If you are not redirected automatically, follow this <a href="{{ site.baseurl }}/assets/Ben_Academic_CV.pdf">link to the CV</a>.</p>
+    <p>If you are not redireted automatically, follow this <a href="{{ site.baseurl }}/assets/Ben_Academic_CV.pdf">link to the CV</a>.</p>
   </body>
 </html>
