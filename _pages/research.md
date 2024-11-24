@@ -76,27 +76,4 @@ permalink: /Research/
   <figcaption class="text-sm text-gray-500 mt-2 text-center">
     Spatiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
-
-  <!-- Publications Section -->
-  <h3>Publications</h3>
-  <ul class="list-none pl-0">
-    <li class="mb-5">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u5HHmVD_uO8C" target="_blank" class="text-blue-600 underline">
-        Spatiotemporal walk-off and improved focusing of plasma THz sources
-      </a>
-      <div class="text-sm text-gray-700">
-        <span class="font-bold">Authors:</span> Rodrigo T Paulino, Benjamin Colmey, David G Cooke<br>
-        <span class="font-bold">Published on:</span> July 5, 2024, in Optics Express, Volume 32, Issue 15, Pages 26351-26358
-      </div>
-    </li>
-    <li class="mb-5">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u-x6o8ySG0sC" target="_blank" class="text-blue-600 underline">
-        Sub-cycle Nanotip Field Emission of Electrons Driven by Air Plasma Generated THz Pulses
-      </a>
-      <div class="text-sm text-gray-700">
-        <span class="font-bold">Authors:</span> Benjamin Colmey, Rodrigo T Paulino, David G Cooke<br>
-        <span class="font-bold">Published on:</span> September 11, 2024, in arXiv preprint arXiv:2409.07196
-      </div>
-    </li>
-  </ul>
 </div>
