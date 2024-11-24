@@ -8,15 +8,6 @@ permalink: /
 ### Welcome!
 
 
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-
-</center>
-</div>
-</div>
-<br/>
 
 ### About me
 I am a PhD candidate in materials physics at the University of Cambridge, specializing in electron microscopy and machine learning techniques for materials characterization. My research focuses on applying innovative computational approaches to the treatment of microscopy data with the aim of opening the technique to previously unobserved materials.
