@@ -2,8 +2,9 @@
 title: Richard Feynman
 email: richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
-baseurl: ""
-url: ""
+url: "https://bcolmey.github.io"  # Replace with your GitHub Pages URL
+baseurl: ""  # Keep empty since this is a root-level repository
+
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
