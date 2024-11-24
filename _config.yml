@@ -94,3 +94,5 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+  - website_env  # Add this line to exclude the virtual environment directory
+
