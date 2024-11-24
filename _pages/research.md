@@ -5,13 +5,11 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research
-
 ### Current Research Topics
 
-<h4>Currently I am working in the electron microscopy group under the supervision of Professor Paul Midgley.</h4>
-<p>We are investigating machine learning approaches to enhance the analysis of transmission electron diffraction images.</p>
-<img src="https://bcolmey.github.io/images/3DED.jpeg" alt="3DED" style="width: 80%;">
+<h4>3D Electron Diffraction</h4>
+<p>Currently I am working in the electron microscopy group under the supervision of Professor Paul Midgley. We are investigating machine learning approaches to enhance the analysis of transmission electron diffraction images.</p>
+<img src="https://bcolmey.github.io/images/3DED.jpeg" alt="3DED" style="width: 40%;">
 <figcaption class="text-sm text-gray-500 mt-2 text-center">
   Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
 </figcaption>
