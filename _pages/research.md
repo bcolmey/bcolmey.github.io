@@ -8,6 +8,31 @@ permalink: /Research/
 <div class="content">
   <h2>Research</h2>
 
+  <!-- Cambridge and Department Images -->
+  <figure class="w-full mb-6" style="display: flex; justify-content: space-between; background: transparent;">
+    <div style="flex: 1; padding-right: 10px;">
+      <img 
+        src="{{ site.baseurl }}/images/panorama1.jpg" 
+        style="display: block; width: 100%; height: auto; border: none; background: transparent; margin: 0; padding: 0;" 
+        alt="Materials Science Department, Cambridge"
+      /> 
+      <figcaption class="text-sm text-gray-500 mt-2 text-center">
+        Materials Science Department, Cambridge
+      </figcaption>
+    </div>
+
+    <div style="flex: 1; padding-left: 10px;">
+      <img 
+        src="{{ site.baseurl }}/images/MS.jpg" 
+        style="display: block; width: 100%; height: auto; border: none; background: transparent; margin: 0; padding: 0;" 
+        alt="University of Cambridge Logo"
+      /> 
+      <figcaption class="text-sm text-gray-500 mt-2 text-center">
+        University of Cambridge
+      </figcaption>
+    </div>
+  </figure>
+
   <!-- Current Research Topics -->
   <h3>Current Research Topics</h3>
   <div>
