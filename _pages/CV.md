@@ -1,32 +1,18 @@
 ---
-title: "Publications"
-layout: gridlay
-sitemap: false
-permalink: /publications/
-years: [2016, 2017, 2018, 2019, 2020, 2021]
+title: "CV"
+permalink: /cv/
 ---
 
-<style>
-.jumbotron{
-    padding:3%;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-top:10px;
-    margin-bottom:30px;
-}
-</style>
-
-<div class="jumbotron">
-### Preprints
-{% bibliography --query @unpublished %}
-</div>
-
-<div class="jumbotron">
-### Refereed journal articles
-{% bibliography --query @article %}
-</div>
-
-<div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url={{ site.baseurl }}/assets/Ben_Academic_CV.pdf" />
+    <script>
+      window.location.href = "{{ site.baseurl }}/assets/Ben_Academic_CV.pdf";
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>If you are not redirected automatically, follow this <a href="{{ site.baseurl }}/assets/Ben_Academic_CV.pdf">link to the CV</a>.</p>
+  </body>
+</html>
