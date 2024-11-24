@@ -2,7 +2,7 @@
 title: "Research"
 layout: research
 sitemap: false
-permalink: /research/
+permalink: /Research/
 ---
 
 <div class="content">
