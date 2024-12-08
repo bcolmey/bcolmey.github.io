@@ -25,7 +25,12 @@ Currently, I am working in the electron microscopy group under the supervision o
 </p>
 
 
-
+<figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
+  <img src="/images/3DED.jpg" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+    Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
+  </figcaption>
+</figure>
 
 
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
@@ -64,7 +69,7 @@ Our approach begins with an initial guess of the structure derived from the expe
 <figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
   <img src="/images/Figure_4.png" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    patiotemporal spreading effect of THz light focused using plasma-based sources.
+    Spatiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
 </figure>
 
