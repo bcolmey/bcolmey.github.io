@@ -13,12 +13,12 @@ permalink: /Research/
   <div style="margin-bottom: 40px;">
     <!-- Cambridge Images -->
     <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/panorama1.jpg" alt="Materials Science Department, Cambridge" style="width: 48%; border-radius: 10px;" />
-      <img src="{{ site.url }}{{ site.baseurl }}/images/MS.jpg" alt="University Logo" style="width: 48%; border-radius: 10px;" />
+      <img src="{{ 'images/panorama1.jpg' | prepend: site.baseurl }}" alt="Materials Science Department, Cambridge" style="width: 48%; border-radius: 10px;" />
+      <img src="{{ 'images/MS.jpg' | prepend: site.baseurl }}" alt="University Logo" style="width: 48%; border-radius: 10px;" />
     </div>
     <!-- 3D Electron Diffraction -->
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/3DED.jpeg" alt="3DED" style="width: 150px; margin-right: 20px; border-radius: 10px;" />
+      <img src="{{ 'images/3DED.jpeg' | prepend: site.baseurl }}" alt="3DED" style="width: 150px; margin-right: 20px; border-radius: 10px;" />
       <div>
         <h4 style="font-weight: bold; font-size: 1.2em;">3D Electron Diffraction</h4>
         <p>
@@ -35,7 +35,7 @@ permalink: /Research/
 
   <!-- Design of a Novel Ultrafast Electron Microscope -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/uhv.webp" alt="UHV System" style="width: 150px; margin-right: 20px; border-radius: 10px;" />
+    <img src="{{ 'images/uhv.webp' | prepend: site.baseurl }}" alt="UHV System" style="width: 150px; margin-right: 20px; border-radius: 10px;" />
     <div>
       <h4 style="font-weight: bold; font-size: 1.2em;">Design of a Novel Ultrafast Electron Microscope</h4>
       <p>
@@ -52,7 +52,7 @@ permalink: /Research/
 
   <!-- Optimizing Plasma-Based THz Sources -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Figure4.png" alt="THz Light Spread" style="width: 150px; margin-right: 20px; border-radius: 10px;" />
+    <img src="{{ 'images/Figure4.png' | prepend: site.baseurl }}" alt="THz Light Spread" style="width: 150px; margin-right: 20px; border-radius: 10px;" />
     <div>
       <h4 style="font-weight: bold; font-size: 1.2em;">Optimizing Plasma-Based THz Sources for Electron Emission</h4>
       <p>
