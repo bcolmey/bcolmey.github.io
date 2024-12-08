@@ -21,6 +21,7 @@ permalink: /Research/
 Currently, I am working in the electron microscopy group under the supervision of Professor Paul Midgley, where my research focuses on the method of 3D electron diffraction (3D ED) for solving the atomic structures of complex materials. As part of this work, we implement quantum mechanical simulations of electron propagation in materials using Bloch wave methods. These dynamical simulations are compared with experimental 3D ED patterns to refine our structural models.
 </p>
 
+{% raw %}
 <figure style="display: block; margin-bottom: 20px; text-align: left;">
   <img src="/images/3DED.jpg" alt="3D-ED diffraction patterns" style="width: 100%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
@@ -30,6 +31,7 @@ Currently, I am working in the electron microscopy group under the supervision o
     </a>, showing slices of reciprocal lattice planes of indomethacin. (Right) Structural model &sigma;-indomethacin.
   </figcaption>
 </figure>
+{% endraw %}
 
 
 
