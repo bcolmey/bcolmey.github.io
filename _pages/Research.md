@@ -52,7 +52,7 @@ permalink: /Research/
 <h3 style="text-align: left; margin-bottom: 10px;">Optimizing Plasma-Based THz Sources for Electron Emission</h3>
 
 <figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/Figure4.png" alt="THz Light Spatiotemporal Spread" style="width: 50%; height: auto; border-radius: 10px;">
+  <img src="/images/Figure_4.png" alt="THz Light Spatiotemporal Spread" style="width: 50%; height: auto; border-radius: 10px;">
   <figcaption style="text-align: left; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Spatiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
