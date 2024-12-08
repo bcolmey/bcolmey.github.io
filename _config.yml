@@ -1,7 +1,7 @@
 # Site settings
 title: Benjamin Colmey
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+email: 
+description: 
 url: "https://bcolmey.github.io"  # Replace with your GitHub Pages URL
 linkedin: "https://www.linkedin.com/in/benjamin-colmey/"
 baseurl: ""  # Keep empty since this is a root-level repository
