@@ -9,27 +9,32 @@ permalink: /Research/
 <!-- Current Research Topics -->
 <h2 style="text-align: left; margin-bottom: 20px;">Current Research Topics</h2>
 
-
-<figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/MS.jpg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
-  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-   Materials Science Department, Cambridge
-  </figcaption>
-</figure>
-
-
-<figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/3DED.jpg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
-  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
+<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <img src="/images/MS.jpg" alt="" style="width: 100%; height: auto; border-radius: 10px;">
+  <figcaption style="text-align: left; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+    Materials Science Department, Cambridge
   </figcaption>
 </figure>
 
 
 
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
-  Currently, I am working in the electron microscopy group under the supervision of Professor Paul Midgley. 
-  We are investigating machine learning approaches to enhance the analysis of transmission electron diffraction images.
+Currently, I am working in the electron microscopy group under the supervision of Professor Paul Midgley, where my research focuses on the method of 3D electron diffraction (3D ED) for solving the atomic structures of complex materials. As part of this work, we implement quantum mechanical simulations of electron propagation in materials using Bloch wave methods. These dynamical simulations are compared with experimental 3D ED patterns to refine our structural models.
+</p>
+
+
+
+
+<figure style="margin-bottom: 20px; text-align: left;">
+  <img src="/images/3DED.jpg" alt="THz Light Spatiotemporal Spread" style="width: 60%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+    Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
+  </figcaption>
+</figure>
+
+
+<p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
+Our approach begins with an initial guess of the structure derived from the experimental data. This preliminary model is used to simulate diffraction patterns, which are then iteratively refined. We employ methods adapted from machine learning, including automatic differentiation and parallelized computing, to optimize the structural model. The goal is to converge to the model that best fits the observed data, as measured by the R factor, a quantitative metric for agreement. 
 </p>
 
 <!-- Previous Research Topics -->
