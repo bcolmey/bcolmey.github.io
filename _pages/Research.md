@@ -9,16 +9,20 @@ permalink: /Research/
 <!-- Current Research Topics -->
 <h2 style="text-align: left; margin-bottom: 20px;">Current Research Topics</h2>
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/MS.jpg" alt="" style="width: 100%; height: auto; border-radius: 10px;">
-  <figcaption style="text-align: left; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+
+
+<figure style="margin-bottom: 20px; text-align: left;">
+  <img src="/images/MS.jpg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Materials Science Department, Cambridge
   </figcaption>
 </figure>
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/3DED.jpg" alt="" style="width: 100%; height: auto; border-radius: 10px;">
-  <figcaption style="text-align: left; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+
+
+<figure style="margin-bottom: 20px; text-align: left;">
+  <img src="/images/3DED.jpg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
   </figcaption>
 </figure>
@@ -35,9 +39,15 @@ permalink: /Research/
 <!-- Design of a Novel Ultrafast Electron Microscope -->
 <h3 style="text-align: left; margin-bottom: 10px;">Design of a Novel Ultrafast Electron Microscope</h3>
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/uhv.webp" alt="Side view diagram of UHV system" style="width: 50%; height: auto; border-radius: 10px;">
+
+<figure style="margin-bottom: 20px; text-align: left;">
+  <img src="/images/uhv.webp" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+    Side view diagram of my proposed UHV system at McGill University
+  </figcaption>
 </figure>
+
+
 
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
   During my time working in McGill University’s 
@@ -52,13 +62,7 @@ permalink: /Research/
 <h3 style="text-align: left; margin-bottom: 10px;">Optimizing Plasma-Based THz Sources for Electron Emission</h3>
 
 <figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/Figure_4.png" alt="THz Light Spatiotemporal Spread" style="width: 50%; height: auto; border-radius: 10px;">
-  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    Spatiotemporal spreading effect of THz light focused using plasma-based sources.
-  </figcaption>
-</figure>
-<figure style="display: block; margin-bottom: 20px; text-align: left;">
-  <img src="/images/Figure_4.png" alt="THz Light Spatiotemporal Spread" style="width: 50%; height: auto; border-radius: 10px;">
+  <img src="/images/Figure_4.png" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Spatiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
@@ -72,10 +76,11 @@ permalink: /Research/
   Our work demonstrated the capability to generate electron bunches with higher energies and charges than previously achieved.
 </p>
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/posters.jpeg" alt="Rodrigo and I presenting work at OTST 2024" style="width: 100%; height: auto; border-radius: 10px;">
-  <figcaption style="text-align: left; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    Rodrigo and I presenting our work at OTST 2024 in Marburg, Germany
+
+<figure style="margin-bottom: 20px; text-align: left;">
+  <img src="/images/posters.jpeg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+   Rodrigo and I presenting our work at OTST 2024 in Marburg, Germany
   </figcaption>
 </figure>
 
