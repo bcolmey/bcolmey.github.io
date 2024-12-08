@@ -10,7 +10,7 @@ permalink: /Research/
 <h2 style="text-align: left; margin-bottom: 20px;">Current Research Topics</h2>
 
 <figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
-  <img src="/images/MS.jpg" alt="Materials Science Department, Cambridge" style="width: 100%; height: auto; border-radius: 10px;">
+  <img src="/images/MS.jpg" alt="Materials Science Department, Cambridge" style="width: 120%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Materials Science Department, Cambridge
   </figcaption>
@@ -27,13 +27,6 @@ Currently, I am working in the electron microscopy group under the supervision o
 
 
 
-<figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/3DED.jpg" alt="THz Light Spatiotemporal Spread" style="width: 60%; height: auto; border-radius: 10px;">
-  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
-  </figcaption>
-</figure>
-
 
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
 Our approach begins with an initial guess of the structure derived from the experimental data. This preliminary model is used to simulate diffraction patterns, which are then iteratively refined. We employ methods adapted from machine learning, including automatic differentiation and parallelized computing, to optimize the structural model. The goal is to converge to the model that best fits the observed data, as measured by the R factor, a quantitative metric for agreement. 
@@ -46,13 +39,12 @@ Our approach begins with an initial guess of the structure derived from the expe
 <h3 style="text-align: left; margin-bottom: 10px;">Design of a Novel Ultrafast Electron Microscope</h3>
 
 
-<figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/uhv.webp" alt="THz Light Spatiotemporal Spread" style="width: 80%; height: auto; border-radius: 10px;">
+<figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
+  <img src="/images/uhv.webp" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    Side view diagram of my proposed UHV system at McGill University
+    Side view diagram of proposed UHV system, to be built at McGill University
   </figcaption>
 </figure>
-
 
 
 
@@ -68,10 +60,11 @@ Our approach begins with an initial guess of the structure derived from the expe
 <!-- Optimizing Plasma-Based THz Sources -->
 <h3 style="text-align: left; margin-bottom: 10px;">Optimizing Plasma-Based THz Sources for Electron Emission</h3>
 
-<figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/Figure_4.png" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+
+<figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
+  <img src="/images/Figure_4.png" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    Spatiotemporal spreading effect of THz light focused using plasma-based sources.
+    patiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
 </figure>
 
@@ -84,12 +77,14 @@ Our approach begins with an initial guess of the structure derived from the expe
 </p>
 
 
-<figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/posters.jpeg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+<figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
+  <img src="/images/posters.jpeg" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-   Rodrigo and I presenting our work at OTST 2024 in Marburg, Germany
+    Rodrigo and I presenting our work at OTST 2024 in Marburg, Germany
   </figcaption>
 </figure>
+
+
 
 <!-- Publications Section -->
 <h2 style="text-align: left; margin-bottom: 20px;">Publications</h2>
