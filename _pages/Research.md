@@ -23,10 +23,10 @@ Currently, I am working in the electron microscopy group under the supervision o
 
 
 <figure style="display: block; margin-bottom: 20px; text-align: left;">
-  <img src="/images/3DED_combined.jpg" alt="3D-ED diffraction patterns" style="width: 50%; height: auto; border-radius: 10px;">
+  <img src="/images/3DED.jpg" alt="3D-ED diffraction patterns" style="width: 100%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     (Left) 3D-ED diffraction patterns taken from our group's 
-    <a href="https://journals.iucr.org/m/issues/2024/05/00/of5005/" target="_blank" style="color: blue; text-decoration: underline;">recent publication</a>, 
+    <a href="https://journals.iucr.org/m/issues/2024/05/00/of5005/" target="_blank" ßstyle="color: blue; text-decoration: underline;">recent publication</a>, 
     showing slices of reciprocal lattice planes of indomethacin. (Right) Structural model &sigma indomethacin.  
   </figcaption>
 </figure>
