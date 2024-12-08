@@ -33,7 +33,6 @@ Currently, I am working in the electron microscopy group under the supervision o
 
 
 
-
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
 Our approach begins with an initial guess of the structure derived from the experimental data. This preliminary model is used to simulate diffraction patterns, which are then iteratively refined. We employ methods adapted from machine learning, including automatic differentiation and parallelized computing, to optimize the structural model. The goal is to converge to the model that best fits the observed data, as measured by the R factor, a quantitative metric for agreement. 
 </p>
