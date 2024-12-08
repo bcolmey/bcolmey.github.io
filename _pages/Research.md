@@ -11,7 +11,7 @@ permalink: /Research/
 <!-- Section: Current Research Topics -->
 <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/panorama1.jpg" alt="Materials Science Department, Cambridge" style="width: 48%; height: auto; border-radius: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/MS.jpg" alt="Slices of reciprocal lattice planes" style="width: 48%; height: auto; border-radius: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/MS.jpg" alt="Slices of reciprocal lattice planes" style="width: 10%; height: auto; border-radius: 10px;">
 </div>
 <div style="text-align: center; margin-top: 20px;">
   <p style="font-size: 1.2em;">
@@ -58,34 +58,6 @@ permalink: /Research/
 </div>
 
 <hr style="margin: 40px 0;">
-
-<!-- Section: Publications -->
-<div style="text-align: center; margin-bottom: 40px;">
-  <h2>Publications</h2>
-</div>
-<ul style="list-style: none; padding-left: 0;">
-  <li style="margin-bottom: 20px;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u5HHmVD_uO8C" target="_blank" style="color: blue; text-decoration: underline;">
-      Spatiotemporal walk-off and improved focusing of plasma THz sources
-    </a>
-    <div style="font-size: 0.9em; color: #555;">
-      <span style="font-weight: bold;">Authors:</span> Rodrigo T Paulino, Benjamin Colmey, David G Cooke<br>
-      <span style="font-weight: bold;">Published on:</span> July 5, 2024, in Optics Express, Volume 32, Issue 15, Pages 26351-26358
-    </div>
-  </li>
-  <li style="margin-bottom: 20px;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u-x6o8ySG0sC" target="_blank" style="color: blue; text-decoration: underline;">
-      Sub-cycle Nanotip Field Emission of Electrons Driven by Air Plasma Generated THz Pulses
-    </a>
-    <div style="font-size: 0.9em; color: #555;">
-      <span style="font-weight: bold;">Authors:</span> Benjamin Colmey, Rodrigo T Paulino, David G Cooke<br>
-      <span style="font-weight: bold;">Published on:</span> September 11, 2024, in arXiv preprint arXiv:2409.07196
-    </div>
-  </li>
-</ul>
-
-
-<hr />
 
 <h2>Publications</h2>
 <ul style="list-style: none; padding-left: 0;">
