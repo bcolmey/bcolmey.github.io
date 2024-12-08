@@ -9,19 +9,22 @@ permalink: /Research/
 <!-- Current Research Topics -->
 <h2 style="text-align: left; margin-bottom: 20px;">Current Research Topics</h2>
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/MS.jpg" alt="" style="width: 100%; height: auto; border-radius: 10px;">
-  <figcaption style="text-align: left; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    Materials Science Department, Cambridge
+
+<figure style="margin-bottom: 20px; text-align: left;">
+  <img src="/images/MS.jpg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+   Materials Science Department, Cambridge
   </figcaption>
 </figure>
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/3DED.jpg" alt="" style="width: 100%; height: auto; border-radius: 10px;">
-  <figcaption style="text-align: left; font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+
+<figure style="margin-bottom: 20px; text-align: left;">
+  <img src="/images/3DED.jpg" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Slices of reciprocal lattice planes of indomethacin. Credit: H. Leung
   </figcaption>
 </figure>
+
 
 
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
@@ -35,16 +38,14 @@ permalink: /Research/
 <!-- Design of a Novel Ultrafast Electron Microscope -->
 <h3 style="text-align: left; margin-bottom: 10px;">Design of a Novel Ultrafast Electron Microscope</h3>
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/uhv.webp" alt="Side view diagram of UHV system" style="width: 50%; height: auto; border-radius: 10px;">
-</figure>
 
 <figure style="margin-bottom: 20px; text-align: left;">
-  <img src="/images/uhv.webp" alt="THz Light Spatiotemporal Spread" style="width: 90%; height: auto; border-radius: 10px;">
+  <img src="/images/uhv.webp" alt="THz Light Spatiotemporal Spread" style="width: 80%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Side view diagram of my proposed UHV system at McGill University
   </figcaption>
 </figure>
+
 
 
 
