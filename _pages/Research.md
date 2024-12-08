@@ -11,7 +11,7 @@ permalink: /Research/
 <!-- Section: Current Research Topics -->
 <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/panorama1.jpg" alt="Materials Science Department, Cambridge" style="width: 48%; height: auto; border-radius: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/reciprocal-lattice.jpg" alt="Slices of reciprocal lattice planes" style="width: 48%; height: auto; border-radius: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/MS.jpg" alt="Slices of reciprocal lattice planes" style="width: 48%; height: auto; border-radius: 10px;">
 </div>
 <div style="text-align: center; margin-top: 20px;">
   <p style="font-size: 1.2em;">
