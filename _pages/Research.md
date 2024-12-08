@@ -10,14 +10,11 @@ permalink: /Research/
 <h2 style="text-align: left; margin-bottom: 20px;">Current Research Topics</h2>
 
 <figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
-  <img src="/images/MS.jpg" alt="Materials Science Department, Cambridge" style="width: 120%; height: auto; border-radius: 10px;">
+  <img src="/images/MS.jpg" alt="Materials Science Department, Cambridge" style="width: 100%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Materials Science Department, Cambridge
   </figcaption>
 </figure>
-
-
-
 
 
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
@@ -45,7 +42,7 @@ Our approach begins with an initial guess of the structure derived from the expe
 
 
 <figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
-  <img src="/images/uhv.webp" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
+  <img src="/images/uhv.webp" alt="Materials Science Department, Cambridge" style="width: 70%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Side view diagram of proposed UHV system, to be built at McGill University
   </figcaption>
@@ -67,7 +64,7 @@ Our approach begins with an initial guess of the structure derived from the expe
 
 
 <figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
-  <img src="/images/Figure_4.png" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
+  <img src="/images/Figure_4.png" alt="Materials Science Department, Cambridge" style="width: 100%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Spatiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
@@ -83,7 +80,7 @@ Our approach begins with an initial guess of the structure derived from the expe
 
 
 <figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
-  <img src="/images/posters.jpeg" alt="Materials Science Department, Cambridge" style="width: 60%; height: auto; border-radius: 10px;">
+  <img src="/images/posters.jpeg" alt="Materials Science Department, Cambridge" style="width: 100%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Rodrigo and I presenting our work at OTST 2024 in Marburg, Germany
   </figcaption>
