@@ -57,6 +57,12 @@ permalink: /Research/
     Spatiotemporal spreading effect of THz light focused using plasma-based sources.
   </figcaption>
 </figure>
+<figure style="display: block; margin-bottom: 20px; text-align: left;">
+  <img src="/images/Figure_4.png" alt="THz Light Spatiotemporal Spread" style="width: 50%; height: auto; border-radius: 10px;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+    Spatiotemporal spreading effect of THz light focused using plasma-based sources.
+  </figcaption>
+</figure>
 
 
 <p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
