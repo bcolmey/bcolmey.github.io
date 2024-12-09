@@ -23,10 +23,12 @@ Currently, I am working in the electron microscopy group under the supervision o
 
 <figure style="display: block; margin-bottom: 20px; text-align: left;">
   <img src="/images/3DED.jpg" alt="3D-ED diffraction patterns" style="width: 100%; height: auto; border-radius: 10px;">
-  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
-    (Left) 3D-ED diffraction patterns taken from our group's recent publication (H. Leung et al. 2024), showing slices of reciprocal lattice planes of indomethacin. (Right) Structural model &sigma;-indomethacin.
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem; max-width: 600px; line-height: 1.5; word-wrap: break-word;">
+    (Left) 3D-ED diffraction patterns taken from our group's recent publication (H. Leung et al. 2024), 
+    showing slices of reciprocal lattice planes of indomethacin. (Right) Structural model &sigma;-indomethacin.
   </figcaption>
 </figure>
+
 
 
 
@@ -42,7 +44,7 @@ Our approach begins with an initial guess of the structure derived from the expe
 
 
 <figure style="margin: 0 auto 20px auto; text-align: center; max-width: 600px;">
-  <img src="/images/uhv.webp" alt="Materials Science Department, Cambridge" style="width: 70%; height: auto; border-radius: 10px;">
+  <img src="/images/uhv.webp" alt="Materials Science Department, Cambridge" style="width: 90%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Side view diagram of proposed UHV system, to be built at McGill University
   </figcaption>
