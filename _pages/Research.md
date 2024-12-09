@@ -10,7 +10,7 @@ permalink: /Research/
 <h2 style="text-align: left; margin-bottom: 20px;">Current Research Topics</h2>
 
 <figure style="display: block; margin-bottom: 20px; text-align: left;">
-  <img src="/images/MS.jpg" alt="Materials Science Department, Cambridge" style="width: 120%; height: auto; border-radius: 10px;">
+  <img src="/images/MS.jpg" alt="Materials Science Department, Cambridge" style="width: 100%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
     Materials Science Department, Cambridge
   </figcaption>
