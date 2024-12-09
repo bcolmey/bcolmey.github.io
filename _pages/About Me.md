@@ -14,5 +14,4 @@ Before coming to Cambridge, I spent the past seven years in Montreal, Canada, wh
 <br><br> I also enjoy traveling, having visited over 30 countries, and engage in hobbies like cooking and woodworking.
 <br><br>
 If you have any questions or would like to collaborate on a project, please don’t hesitate to shoot me an email at: benjamincolmey@gmail.com
-<br><br>
-I’m genuinely enthusiastic about speaking engagements and am open to addressing audiences with various levels of background knowledge. If this interests you, please get in touch.
+
