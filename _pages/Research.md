@@ -23,9 +23,9 @@ Currently, I am working in the electron microscopy group under the supervision o
 
 <figure style="display: block; margin-bottom: 20px; text-align: left;">
   <img src="/images/3DED.jpg" alt="3D-ED diffraction patterns" style="width: 100%; height: auto; border-radius: 10px;">
-  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem; width: 100%; line-height: 1.5; word-wrap: break-word; overflow: visible; white-space: normal;">
+  <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem; width: 100%; line-height: 1.5; word-wrap: break-word; white-space: normal;">
     (Left) 3D-ED diffraction patterns taken from our group's recent publication (H. Leung et al. 2024), 
-    showing slices of reciprocal lattice planes of indomethacin. (Right) Structural model &sigma;-indomethacin.
+    showing slices of reciprocal lattice planes of indomethacin. (Right) Structural model σ indomethacin.
   </figcaption>
 </figure>
 
