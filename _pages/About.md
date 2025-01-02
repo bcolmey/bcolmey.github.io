@@ -3,7 +3,7 @@ layout: research
 title: About
 permalink: /About/
 
-permalink: /
+
 ---
 
 # About me
