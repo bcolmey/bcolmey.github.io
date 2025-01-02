@@ -3,17 +3,16 @@ layout: default
 ---
 
 <div id="about-page" class="container" style="max-width: 960px; margin: 0 auto; padding: 20px;">
-  <!-- Content Wrapper -->
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-    <!-- Image Section -->
-    <div style="flex: 0 0 auto; width: 400px; margin: 0 20px 20px 0;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/ben.jpg" alt="Benjamin Colmey" 
-           style="width: 100%; height: auto; border-radius: 10px;">
-    </div>
-
+  <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
     <!-- Text Section -->
     <div style="flex: 1; font-size: 1.2em; line-height: 1.6;">
       {{ content }}
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 0 0 auto; width: 400px; margin-left: 20px;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/ben.jpg" alt="Benjamin Colmey" 
+           style="width: 100%; height: auto; border-radius: 10px;">
     </div>
   </div>
 </div>
