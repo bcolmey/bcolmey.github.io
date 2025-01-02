@@ -101,13 +101,9 @@ MathJax = {
     <div class="container-fluid">
       <div class="row">
         <div id="about-page" class="container" style="max-width: 960px; margin: 0 auto; padding: 20px;">
-  <div style="position: relative;">
-    <!-- Image Section -->
-    <img src="https://bcolmey.github.io/images/ben.jpg" alt="Benjamin Colmey"
-         style="float: right; width: 350px; height: auto; margin: 20px 20px; border-radius: 10px;">
-    
-    <!-- Text Section -->
-    <div style="font-size: 1.2em; line-height: 1.6;">
+  <div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <!-- Left Column: Text -->
+    <div style="flex: 1; padding-right: 20px;">
       <h2 id="about-me">About Me</h2>
 <p>I am a PhD candidate in materials physics at the University of Cambridge, specializing in electron microscopy and machine learning techniques for materials characterization. My research focuses on applying innovative computational approaches to the treatment of microscopy data with the aim of opening the technique to previously unobserved materials.
 <br /><br />
@@ -117,6 +113,12 @@ Before coming to Cambridge, I spent the past seven years in Montreal, Canada, wh
 <br /><br />
 If you have any questions or would like to collaborate on a project, please don’t hesitate to shoot me an email at: benjamincolmey@gmail.com</p>
 
+    </div>
+
+    <!-- Right Column: Image -->
+    <div style="flex: 0 0 40%; margin-top: 50px; margin-left: 20px;">
+      <img src="https://bcolmey.github.io/images/ben.jpg" alt="Benjamin Colmey" 
+           style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #ddd;">
     </div>
   </div>
 </div>
