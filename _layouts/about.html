@@ -3,14 +3,16 @@ layout: default
 ---
 
 <div id="about-page" class="container" style="max-width: 960px; margin: 0 auto; padding: 20px;">
-  <div style="position: relative;">
-    <!-- Image Section -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/ben.jpg" alt="Benjamin Colmey"
-         style="float: right; width: 350px; height: auto; margin: 20px 20px; border-radius: 10px;">
-    
-    <!-- Text Section -->
-    <div style="font-size: 1.2em; line-height: 1.6;">
+  <div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <!-- Left Column: Text -->
+    <div style="flex: 1; padding-right: 20px;">
       {{ content }}
+    </div>
+
+    <!-- Right Column: Image -->
+    <div style="flex: 0 0 40%; margin-top: 50px; margin-left: 20px;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/ben.jpg" alt="Benjamin Colmey" 
+           style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #ddd;">
     </div>
   </div>
 </div>
