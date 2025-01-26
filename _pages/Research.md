@@ -88,12 +88,11 @@ Our approach begins with an initial guess of the structure derived from the expe
     Rodrigo and I presenting our work at OTST 2024 in Marburg, Germany
   </figcaption>
 </figure>
-
 <!-- Publications Section -->
 <h2 style="text-align: left; margin-bottom: 20px;">Publications</h2>
 <ul style="list-style: none; padding-left: 0; font-size: 1.2em;">
   <li style="margin-bottom: 20px;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u-x6o8ySG0sC" target="_blank" style="color: #32CD32; text-decoration: underline; font-size: 1.2em;">
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u-x6o8ySG0sC" target="_blank" style="color: lightgreen; text-decoration: underline; font-size: 1.2em;">
       Sub-cycle Nanotip Field Emission of Electrons Driven by Air Plasma Generated THz Pulses
     </a>
     <div style="font-size: 1em; color: white;">
@@ -102,7 +101,7 @@ Our approach begins with an initial guess of the structure derived from the expe
     </div>
   </li>
   <li style="margin-bottom: 20px;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u5HHmVD_uO8C" target="_blank" style="color: #32CD32; text-decoration: underline; font-size: 1.2em;">
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u5HHmVD_uO8C" target="_blank" style="color: lightgreen; text-decoration: underline; font-size: 1.2em;">
       Spatiotemporal walk-off and improved focusing of plasma THz sources
     </a>
     <div style="font-size: 1em; color: white;">
@@ -111,4 +110,3 @@ Our approach begins with an initial guess of the structure derived from the expe
     </div>
   </li>
 </ul>
-
