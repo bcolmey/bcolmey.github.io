@@ -92,16 +92,16 @@ Our approach begins with an initial guess of the structure derived from the expe
 <h2 style="text-align: left; margin-bottom: 20px;">Publications</h2>
 <ul style="list-style: none; padding-left: 0; font-size: 1.2em;">
   <li style="margin-bottom: 20px;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u-x6o8ySG0sC" target="_blank" style="color: lightgreen; text-decoration: underline; font-size: 1.2em;">
+    <a href="https://pubs.aip.org/aip/apl/article-abstract/126/3/031108/3332236/Sub-cycle-nanotip-field-emission-of-electrons?redirectedFrom=fulltext" target="_blank" style="color: lightgreen; text-decoration: underline; font-size: 1.2em;">
       Sub-cycle Nanotip Field Emission of Electrons Driven by Air Plasma Generated THz Pulses
     </a>
     <div style="font-size: 1em; color: white;">
-      <span style="font-weight: bold;">Authors:</span> Benjamin Colmey, Rodrigo T Paulino, David G Cooke<br>
-      <span style="font-weight: bold;">Published on:</span> Jan 25, 2024, in Applied Physics Letters 126 (3): 031108
+      <span style="font-weight: bold;">Authors:</span> Benjamin Colmey, Rodrigo T Paulino, Gaspard Beaufort, David G Cooke<br>
+      <span style="font-weight: bold;">Published on:</span> Jan 25, 2025, in Applied Physics Letters 126 (3): 031108
     </div>
   </li>
   <li style="margin-bottom: 20px;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QIHBMhsAAAAJ&citation_for_view=QIHBMhsAAAAJ:u5HHmVD_uO8C" target="_blank" style="color: lightgreen; text-decoration: underline; font-size: 1.2em;">
+    <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-15-26351&id=553098" target="_blank" style="color: lightgreen; text-decoration: underline; font-size: 1.2em;">
       Spatiotemporal walk-off and improved focusing of plasma THz sources
     </a>
     <div style="font-size: 1em; color: white;">
