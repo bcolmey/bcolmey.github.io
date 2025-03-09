@@ -109,4 +109,14 @@ Our approach begins with an initial guess of the structure derived from the expe
       <span style="font-weight: bold;">Published on:</span> July 5, 2024, in Optics Express, Volume 32, Issue 15, Pages 26351-26358
     </div>
   </li>
+  <!-- New publication entry -->
+  <li style="margin-bottom: 20px;">
+    <a href="https://arxiv.org/abs/2503.04189" target="_blank" style="color: lightgreen; text-decoration: underline; font-size: 1.2em;">
+      Partial Differential Operators and Fourier Integral Operators in the Gevrey Setting and Applications
+    </a>
+    <div style="font-size: 1em; color: white;">
+      <span style="font-weight: bold;">Authors:</span> Benjamin Colmey, R. Lascar<br>
+      <span style="font-weight: bold;">Pre-print on:</span> arXiv:2503.04189, March 2025. <span style="font-weight: bold;">Submitted to:</span> Journal d'Analyse Mathématique
+    </div>
+  </li>
 </ul>
