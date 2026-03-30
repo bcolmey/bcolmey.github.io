@@ -22,20 +22,20 @@ Currently, I am working in the electron microscopy group under the supervision o
 </p>
 
 <figure style="display: block; margin-bottom: 20px; text-align: left;">
+  <img src="/images/rotating_crystal_fast.gif" alt="Rotating 3D electron diffraction crystal" style="width: 100%; height: auto; border-radius: 10px;">
+</figure>
+
+<p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
+Our approach begins with an initial guess of the structure derived from the experimental data. This preliminary model is used to simulate diffraction patterns, which are then iteratively refined. We employ methods adapted from machine learning, including automatic differentiation and parallelized computing, to optimize the structural model. The goal is to converge to the model that best fits the observed data, as measured by the R factor, a quantitative metric for agreement.
+</p>
+
+<figure style="display: block; margin-bottom: 20px; text-align: left;">
   <img src="/images/3DED.jpg" alt="3D-ED diffraction patterns" style="width: 100%; height: auto; border-radius: 10px;">
   <figcaption style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem; width: 100%; line-height: 1.5; word-wrap: break-word; white-space: normal;">
     (Left) 3D-ED diffraction patterns taken from our group's recent publication (H. Leung et al. 2024), 
     showing slices of reciprocal lattice planes of indomethacin. (Right) Structural model σ indomethacin.
   </figcaption>
 </figure>
-
-
-
-
-
-<p style="text-align: left; font-size: 1.2em; margin-bottom: 40px;">
-Our approach begins with an initial guess of the structure derived from the experimental data. This preliminary model is used to simulate diffraction patterns, which are then iteratively refined. We employ methods adapted from machine learning, including automatic differentiation and parallelized computing, to optimize the structural model. The goal is to converge to the model that best fits the observed data, as measured by the R factor, a quantitative metric for agreement. 
-</p>
 
 <!-- Previous Research Topics -->
 <h2 style="text-align: left; margin-bottom: 20px;">Previous Research Topics</h2>
