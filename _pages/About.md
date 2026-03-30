@@ -5,7 +5,7 @@ permalink: /About/
 ---
 
 ## About Me
-I am a PhD candidate in computational physics at the University of Cambridge, specializing in electron microscopy and machine learning techniques for structure solution. My research focuses on applying innovative computational approaches to the treatment of microscopy data with the aim of opening the technique to previously uncharacterized materials.
+I am a PhD candidate in computational physics at the University of Cambridge, specializing in electron microscopy and machine learning techniques for structure determination. My research focuses on applying innovative computational approaches to the treatment of microscopy data with the aim of opening the technique to previously uncharacterized materials.
 <br><br>
 Before coming to Cambridge, I spent the past seven years in Montreal, Canada, where I recently completed my MSc in condensed matter physics at McGill University. At other times, I have lived in Paris, New York, Hong Kong and Jakarta.
 
