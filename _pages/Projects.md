@@ -2,6 +2,7 @@
 title: "Projects"
 layout: page
 permalink: /Projects/
+published: false
 ---
 
 This page highlights hands-on projects spanning fabrication, instrument design, and experimental development.
